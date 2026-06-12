@@ -15,7 +15,7 @@ This is a Java console application that calculates the monthly electricity bill 
 1. Make sure you have Java JDK installed on your system.
 2. Save the code in a file named `ElectricityBillSystem.java`.
 3. Open Command Prompt or Terminal in the same folder.
-4. Compile the code using the command:javac.java
+4. Compile the code using the command:javac_.java
 5. Run the program using the command:java ElectricityBillSystem
 
 
